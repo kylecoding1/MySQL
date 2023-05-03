@@ -18,10 +18,6 @@ A command-line application for managing a company's employee database, built wit
 
 The Employee Management System is a Node.js command-line application that allows users to view and manage the departments, roles, and employees in a company. The application connects to a MySQL database to store and retrieve information.
 
-![Employee Management System Screenshot](./screenshot.png)
-
-*Replace `screenshot.png` with a screenshot of your application, if desired.*
-
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
