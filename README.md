@@ -51,6 +51,6 @@ npm start
 
 
 Project Links:
-Github repository link : https://github.com/kylecoding1/MySQL
+Github repository link: https://github.com/kylecoding1/MySQL
 
 Deployed Application link: https://kylecoding1.github.io/MySQL/
