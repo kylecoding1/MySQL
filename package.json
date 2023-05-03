@@ -1,0 +1,13 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "A command-line application to manage a company's employee database",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
