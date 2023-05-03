@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo
 
-git clone https://github.com/your_username/employee-management-system.git
+git clone https://github.com/your_username/MySQL.git
 
 2. Change to the project directory
 cd employee-management-system
